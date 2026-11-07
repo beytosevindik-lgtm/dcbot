@@ -3819,4 +3819,4 @@ async def on_ready():
 if __name__ == "__main__":
     if not TOKEN:
         raise SystemExit("DISCORD_TOKEN ortam değişkeni ayarlı değil.")
-    bot.run("MTU0NjQ1NDYxNzU0ODY1NjY0MA.GwY3e8.P1ybZpERzITX2s0NtHYQenH8QZzb2utSwj6bgM")
+    bot.run("TOKEN")
