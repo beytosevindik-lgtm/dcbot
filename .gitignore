@@ -1,0 +1,8 @@
+# Gizli ve yerel dosyalar: asla paylaşma/yükleme
+.env
+*.db
+*.db-wal
+*.db-shm
+cache/
+ayarlar.json
+__pycache__/
